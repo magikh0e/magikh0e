@@ -11,7 +11,7 @@
 ```console
 visitor@github:~$ whoami
 magikh0e — infosec tinkerer. I automate my house, hack my Jeep,
-           and write guides for the parts that fought back.
+           and write down what worked before I forget.
 
 visitor@github:~$ cat .plan
 "Hackers do it with all sorts of characters."
