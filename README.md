@@ -10,12 +10,11 @@
 
 ```console
 visitor@github:~$ whoami
-magikh0e — infosec tinkerer. I automate my house, hack my Jeep's,
-           and write guides so the next person doesn't have to
-           relearn it the hard way.
+magikh0e — infosec tinkerer. I automate my house, hack my Jeep,
+           and write guides for the parts that fought back.
 
 visitor@github:~$ cat .plan
-"my stuff works. I have no idea why, and I'm afraid to touch it."
+"Hackers do it with all sorts of characters."
 ```
 
 [![Website](https://img.shields.io/badge/magikh0e.pl-0a0a0a?style=flat-square&logo=firefox&logoColor=00ff9c)](https://magikh0e.pl)
