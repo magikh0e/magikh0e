@@ -65,9 +65,8 @@ visitor@github:~$ uname -a && cat /etc/stack
 
 <div align="center">
 
-![magikh0e's GitHub stats](https://github-readme-stats.vercel.app/api?username=magikh0e&show_icons=true&hide_border=true&theme=synthwave&icon_color=00ff9c&title_color=00ff9c&bg_color=0a0a0a)
-
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=magikh0e&layout=compact&hide_border=true&theme=synthwave&title_color=00ff9c&bg_color=0a0a0a)
+[![Followers](https://img.shields.io/github/followers/magikh0e?style=for-the-badge&logo=github&logoColor=00ff9c&label=FOLLOWERS&labelColor=0a0a0a&color=00ff9c)](https://github.com/magikh0e?tab=followers)
+[![Flipper repo stars](https://img.shields.io/github/stars/magikh0e/FlipperZero_Stuff?style=for-the-badge&logo=github&logoColor=00ff9c&label=FLIPPER%20%E2%98%85&labelColor=0a0a0a&color=00ff9c)](https://github.com/magikh0e/FlipperZero_Stuff)
 
 </div>
 
