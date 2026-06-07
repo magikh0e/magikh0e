@@ -55,6 +55,8 @@ visitor@github:~$ uname -a && cat /etc/stack
 ![Home Assistant](https://img.shields.io/badge/-Home%20Assistant-0a0a0a?style=flat-square&logo=homeassistant&logoColor=18bcf2)
 ![ESPHome](https://img.shields.io/badge/-ESPHome-0a0a0a?style=flat-square&logo=espressif&logoColor=e7352c)
 ![Linux](https://img.shields.io/badge/-Linux-0a0a0a?style=flat-square&logo=linux&logoColor=ffd43b)
+![BSD](https://img.shields.io/badge/-BSD-0a0a0a?style=flat-square&logo=bsd&logoColor=ef4444)
+![UNIX](https://img.shields.io/badge/-UNIX-0a0a0a?style=flat-square&logoColor=00ff9c)
 ![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-0a0a0a?style=flat-square&logo=raspberrypi&logoColor=c51a4a)
 ![Python](https://img.shields.io/badge/-Python-0a0a0a?style=flat-square&logo=python&logoColor=3776ab)
 ![C](https://img.shields.io/badge/-C-0a0a0a?style=flat-square&logo=c&logoColor=a8b9cc)
