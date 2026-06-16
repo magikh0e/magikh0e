@@ -31,7 +31,7 @@ visitor@github:~$ ls ~/projects/
 ### 🏠 home-automation/
 - **[haos_stuff](https://github.com/magikh0e/haos_stuff)** — my full Home Assistant OS setup: dashboards, automations, voice control, blueprints, a reverse-engineered Cannatrol BLE protocol
 - **[ha-home-grow](https://github.com/magikh0e/ha-home-grow)** — native HACS integration for tracking plants (growth stage, health, age)
-- **[ha-medication-reminder](https://github.com/magikh0e/ha-medication-reminder)** · **[-hacs](https://github.com/magikh0e/ha-medication-reminder-hacs)** — multi-dose reminders with nag + escalation, in YAML-package and custom-integration flavors
+- **[ha-medication-reminder](https://github.com/magikh0e/ha-medication-reminder)** · **[-yaml](https://github.com/magikh0e/ha-medication-reminder-yaml)** — multi-dose reminders with nag + escalation, in custom-integration and YAML-package flavors
 - **[PlantManager](https://github.com/magikh0e/PlantManager)** — local-first, offline PWA for cultivation tracking, no accounts
 
 ### 🚗 car-hacking/
