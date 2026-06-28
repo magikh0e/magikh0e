@@ -21,6 +21,7 @@ visitor@github:~$ cat .plan
 [![Mastodon](https://img.shields.io/badge/@magikh0e-0a0a0a?style=flat-square&logo=mastodon&logoColor=6364ff)](https://infosec.exchange/@magikh0e)
 [![Home Assistant](https://img.shields.io/badge/Home%20Assistant-0a0a0a?style=flat-square&logo=homeassistant&logoColor=18bcf2)](https://magikh0e.pl/pubHomeAutomation/)
 [![Exploits](https://img.shields.io/badge/exploit%20archive-0a0a0a?style=flat-square&logo=hackthebox&logoColor=9fef00)](https://magikh0e.pl/exploits/)
+[![Cults3D](https://img.shields.io/badge/Cults3D-0a0a0a?style=flat-square&logo=cults3d&logoColor=00ff9c)](https://cults3d.com/en/users/magikh0e/3d-models)
 
 ---
 
