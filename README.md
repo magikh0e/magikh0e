@@ -45,6 +45,7 @@ visitor@github:~$ ls ~/projects/
 
 ### 🖨️ 3d-printing/
 - **[wisblock-case-generator](https://github.com/magikh0e/wisblock-case-generator)** — parametric OpenSCAD case for the RAK19007 + RAK4631 Meshtastic node, snap or screw lid, every dimension tunable
+- **[heltec-v4-case-generator](https://github.com/magikh0e/heltec-v4-case-generator)** — parametric OpenSCAD case for the Heltec WiFi LoRa 32 V4, OLED window + SMA antenna option, ships print-ready STLs
 
 ### 🌐 the-site/
 - **[magikh0e.pl](https://magikh0e.pl)** — exploit archive, hardware & car-hacking guides, home-lab write-ups, and a few infosec browser games ([Hack the Gibson](https://magikh0e.pl/gibson/), [Exploit-dle](https://magikh0e.pl/exploit-dle/), [Crypto-dle](https://magikh0e.pl/crypto-dle/))
