@@ -21,7 +21,7 @@ visitor@github:~$ cat .plan
 [![Mastodon](https://img.shields.io/badge/@magikh0e-0a0a0a?style=flat-square&logo=mastodon&logoColor=6364ff)](https://infosec.exchange/@magikh0e)
 [![Home Assistant](https://img.shields.io/badge/Home%20Assistant-0a0a0a?style=flat-square&logo=homeassistant&logoColor=18bcf2)](https://magikh0e.pl/pubHomeAutomation/)
 [![Exploits](https://img.shields.io/badge/exploit%20archive-0a0a0a?style=flat-square&logo=hackthebox&logoColor=9fef00)](https://magikh0e.pl/exploits/)
-[![Cults3D](https://img.shields.io/badge/Cults3D-0a0a0a?style=flat-square&logo=cults3d&logoColor=00ff9c)](https://cults3d.com/en/users/magikh0e/3d-models)
+[![Cults3D](https://img.shields.io/badge/Cults3D-0a0a0a?style=flat-square&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjMDBmZjljIiBzdHJva2Utd2lkdGg9IjIiIHN0cm9rZS1saW5lam9pbj0icm91bmQiPjxwYXRoIGQ9Ik0xMiAyIDMgN3YxMGw5IDUgOS01VjdaIi8%2BPHBhdGggZD0iTTMgN2w5IDUgOS01TTEyIDEydjEwIi8%2BPC9zdmc%2B)](https://cults3d.com/en/users/magikh0e/3d-models)
 
 ---
 
@@ -61,15 +61,15 @@ visitor@github:~$ uname -a && cat /etc/stack
 ![ESPHome](https://img.shields.io/badge/-ESPHome-0a0a0a?style=flat-square&logo=espressif&logoColor=e7352c)
 ![Linux](https://img.shields.io/badge/-Linux-0a0a0a?style=flat-square&logo=linux&logoColor=ffd43b)
 ![BSD](https://img.shields.io/badge/-BSD-0a0a0a?style=flat-square&logo=bsd&logoColor=ef4444)
-![UNIX](https://img.shields.io/badge/-UNIX-0a0a0a?style=flat-square&logoColor=00ff9c)
+![UNIX](https://img.shields.io/badge/-UNIX-0a0a0a?style=flat-square&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjMDBmZjljIiBzdHJva2Utd2lkdGg9IjIiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCI%2BPHJlY3QgeD0iMiIgeT0iMyIgd2lkdGg9IjIwIiBoZWlnaHQ9IjE4IiByeD0iMiIvPjxwYXRoIGQ9Ik02IDlsMyAzLTMgM00xMyAxNWg1Ii8%2BPC9zdmc%2B)
 ![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-0a0a0a?style=flat-square&logo=raspberrypi&logoColor=c51a4a)
 ![Python](https://img.shields.io/badge/-Python-0a0a0a?style=flat-square&logo=python&logoColor=3776ab)
 ![C](https://img.shields.io/badge/-C-0a0a0a?style=flat-square&logo=c&logoColor=a8b9cc)
 ![Perl](https://img.shields.io/badge/-Perl-0a0a0a?style=flat-square&logo=perl&logoColor=00ff9c)
-![Assembly](https://img.shields.io/badge/-Assembly-0a0a0a?style=flat-square&logoColor=00ff9c)
+![Assembly](https://img.shields.io/badge/-Assembly-0a0a0a?style=flat-square&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjMDBmZjljIiBzdHJva2Utd2lkdGg9IjIiIHN0cm9rZS1saW5lam9pbj0icm91bmQiPjxyZWN0IHg9IjYiIHk9IjYiIHdpZHRoPSIxMiIgaGVpZ2h0PSIxMiIgcng9IjEiLz48cGF0aCBkPSJNOSAxdjNNMTUgMXYzTTkgMjB2M00xNSAyMHYzTTEgOWgzTTEgMTVoM00yMCA5aDNNMjAgMTVoMyIvPjwvc3ZnPg%3D%3D)
 ![Bash](https://img.shields.io/badge/-Bash-0a0a0a?style=flat-square&logo=gnubash&logoColor=4eaa25)
 ![YAML](https://img.shields.io/badge/-YAML-0a0a0a?style=flat-square&logo=yaml&logoColor=cb171e)
-![CAN bus](https://img.shields.io/badge/-CAN%20bus-0a0a0a?style=flat-square&logo=canva&logoColor=00ff9c)
+![CAN bus](https://img.shields.io/badge/-CAN%20bus-0a0a0a?style=flat-square&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjMDBmZjljIiBzdHJva2Utd2lkdGg9IjIiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCI%2BPHBhdGggZD0iTTIgMTJoMjBNNiAxMlY3TTEyIDEyVjdNMTggMTJWNyIvPjxyZWN0IHg9IjMiIHk9IjMiIHdpZHRoPSI2IiBoZWlnaHQ9IjQiIHJ4PSIxIi8%2BPHJlY3QgeD0iMTUiIHk9IjMiIHdpZHRoPSI2IiBoZWlnaHQ9IjQiIHJ4PSIxIi8%2BPGNpcmNsZSBjeD0iMTIiIGN5PSI1IiByPSIxLjUiLz48L3N2Zz4%3D)
 
 ---
 
