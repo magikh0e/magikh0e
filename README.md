@@ -43,6 +43,9 @@ visitor@github:~$ ls ~/projects/
 - **[CVEs](https://github.com/magikh0e/CVEs)** — collected exploits for CVEs
 - **[FlipperZero_Stuff](https://github.com/magikh0e/FlipperZero_Stuff)** — IR / Sub-GHz / BadUSB / remotes for the Flipper Zero
 
+### 🖨️ 3d-printing/
+- **[wisblock-case-generator](https://github.com/magikh0e/wisblock-case-generator)** — parametric OpenSCAD case for the RAK19007 + RAK4631 Meshtastic node, snap or screw lid, every dimension tunable
+
 ### 🌐 the-site/
 - **[magikh0e.pl](https://magikh0e.pl)** — exploit archive, hardware & car-hacking guides, home-lab write-ups, and a few infosec browser games ([Hack the Gibson](https://magikh0e.pl/gibson/), [Exploit-dle](https://magikh0e.pl/exploit-dle/), [Crypto-dle](https://magikh0e.pl/crypto-dle/))
 
