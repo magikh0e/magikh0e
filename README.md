@@ -18,6 +18,7 @@ visitor@github:~$ cat .plan
 ```
 
 [![Website](https://img.shields.io/badge/magikh0e.pl-0a0a0a?style=flat-square&logo=firefox&logoColor=00ff9c)](https://magikh0e.pl)
+[![Tropical Roots Maui](https://img.shields.io/badge/Tropical%20Roots%20Maui-0a0a0a?style=flat-square&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjMDBmZjljIiBzdHJva2Utd2lkdGg9IjIiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCI%2BPHBhdGggZD0iTTExIDIwQTcgNyAwIDAgMSA5LjggNi4xQzE1LjUgNSAxNyA0LjQ4IDE5IDJjMSAyIDIgNC4xOCAyIDggMCA1LjUtNC43OCAxMC0xMCAxMFoiLz48cGF0aCBkPSJNMiAyMWMwLTMgMS44NS01LjM2IDUuMDgtNiIvPjwvc3ZnPg%3D%3D)](https://tropicalrootsmaui.com)
 [![Mastodon](https://img.shields.io/badge/@magikh0e-0a0a0a?style=flat-square&logo=mastodon&logoColor=6364ff)](https://infosec.exchange/@magikh0e)
 [![Home Assistant](https://img.shields.io/badge/Home%20Assistant-0a0a0a?style=flat-square&logo=homeassistant&logoColor=18bcf2)](https://magikh0e.pl/pubHomeAutomation/)
 [![Exploits](https://img.shields.io/badge/exploit%20archive-0a0a0a?style=flat-square&logo=hackthebox&logoColor=9fef00)](https://magikh0e.pl/exploits/)
