@@ -35,9 +35,8 @@ visitor@github:~$ ls ~/projects/
 - **[ha-home-grow](https://github.com/magikh0e/ha-home-grow)** — native HACS integration for tracking plants (growth stage, health, age)
 - **[ha-medication-reminder](https://github.com/magikh0e/ha-medication-reminder)** · **[-yaml](https://github.com/magikh0e/ha-medication-reminder-yaml)** — multi-dose reminders with nag + escalation, in custom-integration and YAML-package flavors
 
-### 🌿 cannabis/
-- **[PlantManager](https://github.com/magikh0e/PlantManager)** — local-first, offline PWA for cultivation tracking, no accounts
-- **[volcano-hybrid-control](https://github.com/magikh0e/volcano-hybrid-control)** — browser Web Bluetooth control for the Storz & Bickel Volcano Hybrid (temperature, heat, fan, presets, bag fill), no app or backend; BLE protocol from [home-assistant-volcano-hybrid](https://github.com/SavageNL/home-assistant-volcano-hybrid)
+### 🌱 gardening/
+- **[PlantManager](https://github.com/magikh0e/PlantManager)** — a complete offline cultivation manager in a single HTML file: mother and clone tracking, feeding and environment logs, KNF and VPD/DLI calculators, harvest, trichome, and cost tracking, lineage and genetic trees, and 30+ SVG analytics charts. Local-first, no accounts, no tracking.
 
 ### 🚗 car-hacking/
 - **[canbus-scripts](https://github.com/magikh0e/canbus-scripts)** — bash + can-utils OBD-II / CAN bus diagnostics (DTC clearing, live engine dashboard)
@@ -49,8 +48,9 @@ visitor@github:~$ ls ~/projects/
 - **[CVEs](https://github.com/magikh0e/CVEs)** — collected exploits for CVEs
 - **[FlipperZero_Stuff](https://github.com/magikh0e/FlipperZero_Stuff)** — IR / Sub-GHz / BadUSB / remotes for the Flipper Zero
 
-### 💬 self-hosted/
+### 🖥️ self-hosted/
 - **[open-relay](https://github.com/magikh0e/open-relay)** — self-hosted, end-to-end-encrypted chat service (FastAPI + React, native [Tauri](https://tauri.app) desktop app). Channels, threads, DMs with browser-side E2EE and safety numbers — no company in the middle
+- **[volcano-hybrid-control](https://github.com/magikh0e/volcano-hybrid-control)** — browser Web Bluetooth control for the Storz & Bickel Volcano Hybrid (temperature, heat, fan, presets, bag fill), no app or backend; BLE protocol from [home-assistant-volcano-hybrid](https://github.com/SavageNL/home-assistant-volcano-hybrid)
 
 ### 🖨️ 3d-printing/
 - **[wisblock-case-generator](https://github.com/magikh0e/wisblock-case-generator)** — parametric OpenSCAD case for the RAK19007 + RAK4631 Meshtastic node, snap or screw lid, every dimension tunable
