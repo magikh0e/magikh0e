@@ -34,6 +34,8 @@ visitor@github:~$ ls ~/projects/
 - **[haos_stuff](https://github.com/magikh0e/haos_stuff)** — my full Home Assistant OS setup: dashboards, automations, voice control, blueprints, a reverse-engineered Cannatrol BLE protocol
 - **[ha-home-grow](https://github.com/magikh0e/ha-home-grow)** — native HACS integration for tracking plants (growth stage, health, age)
 - **[ha-medication-reminder](https://github.com/magikh0e/ha-medication-reminder)** · **[-yaml](https://github.com/magikh0e/ha-medication-reminder-yaml)** — multi-dose reminders with nag + escalation, in custom-integration and YAML-package flavors
+
+### 🌿 cannabis/
 - **[PlantManager](https://github.com/magikh0e/PlantManager)** — local-first, offline PWA for cultivation tracking, no accounts
 - **[volcano-hybrid-control](https://github.com/magikh0e/volcano-hybrid-control)** — browser Web Bluetooth control for the Storz & Bickel Volcano Hybrid (temperature, heat, fan, presets, bag fill), no app or backend; BLE protocol from [home-assistant-volcano-hybrid](https://github.com/SavageNL/home-assistant-volcano-hybrid)
 
