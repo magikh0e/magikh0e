@@ -46,7 +46,7 @@ visitor@github:~$ ls ~/projects/
 ### 🔐 security/
 - **[Wordlists](https://github.com/magikh0e/Wordlists)** — aggregated security-testing wordlists (discovery, fuzzing, passwords, payloads, IOCs)
 - **[CVEs](https://github.com/magikh0e/CVEs)** — collected exploits for CVEs
-- **[FlipperZero_Stuff](https://github.com/magikh0e/FlipperZero_Stuff)** — IR / Sub-GHz / BadUSB / remotes for the Flipper Zero
+- **[FlipperZero_Stuff](https://github.com/magikh0e/FlipperZero_Stuff)** — custom firmware, Sub-GHz & IR captures, NFC/RFID, BadUSB payloads, external hardware, and curated tools/links for the Flipper Zero
 
 ### 🖥️ self-hosted/
 - **[open-relay](https://github.com/magikh0e/open-relay)** — self-hosted, end-to-end-encrypted chat service (FastAPI + React, native [Tauri](https://tauri.app) desktop app). Channels, threads, DMs with browser-side E2EE and safety numbers — no company in the middle
