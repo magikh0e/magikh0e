@@ -44,8 +44,8 @@ visitor@github:~$ ls ~/projects/
 - **[bitpirate-to-savvycan](https://github.com/magikh0e/bitpirate-to-savvycan)** — Python tools to turn an [ESP32 Bit-Pirate](https://github.com/geo-tp/ESP32-Bit-Pirate) CAN capture into a SavvyCAN (GVRET) CSV with optional DBC decoding, plus a Wi-Fi capture fetcher; stdlib only
 
 ### 🔐 security/
-- **[Wordlists](https://github.com/magikh0e/Wordlists)** — aggregated security-testing wordlists (discovery, fuzzing, passwords, payloads, IOCs)
-- **[CVEs](https://github.com/magikh0e/CVEs)** — collected exploits for CVEs
+- **[Wordlists](https://github.com/magikh0e/Wordlists)** — aggregated, SecLists-derived security-testing wordlists: discovery, fuzzing, passwords, usernames, payloads, and IOCs
+- **[CVEs](https://github.com/magikh0e/CVEs)** — proof-of-concept exploit code for select CVEs
 - **[FlipperZero_Stuff](https://github.com/magikh0e/FlipperZero_Stuff)** — custom firmware, Sub-GHz & IR captures, NFC/RFID, BadUSB payloads, external hardware, and curated tools/links for the Flipper Zero
 
 ### 🖥️ self-hosted/
