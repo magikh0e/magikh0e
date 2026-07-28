@@ -53,6 +53,7 @@ visitor@github:~$ ls ~/projects/
 - **[volcano-hybrid-control](https://github.com/magikh0e/volcano-hybrid-control)** — browser Web Bluetooth control for the Storz & Bickel Volcano Hybrid (temperature, heat, fan, presets, bag fill), no app or backend; BLE protocol from [home-assistant-volcano-hybrid](https://github.com/SavageNL/home-assistant-volcano-hybrid)
 
 ### 🖨️ 3d-printing/
+- **[PrintVault](https://github.com/magikh0e/PrintVault)** — local-first manager for 3D print files: indexes your folders in place, reads slicer settings from gcode, looks inside unextracted archives, and finds duplicates. Browser or desktop, nothing uploaded
 - **[wisblock-case-generator](https://github.com/magikh0e/wisblock-case-generator)** — parametric OpenSCAD case for the RAK19007 + RAK4631 Meshtastic node, snap or screw lid, every dimension tunable
 - **[heltec-v4-case-generator](https://github.com/magikh0e/heltec-v4-case-generator)** — parametric OpenSCAD case for the Heltec WiFi LoRa 32 V4, OLED window + SMA antenna option, ships print-ready STLs
 
