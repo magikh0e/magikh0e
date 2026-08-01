@@ -73,6 +73,7 @@ visitor@github:~$ uname -a && cat /etc/stack
 ![UNIX](https://img.shields.io/badge/-UNIX-0a0a0a?style=flat-square&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjMDBmZjljIiBzdHJva2Utd2lkdGg9IjIiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCI%2BPHJlY3QgeD0iMiIgeT0iMyIgd2lkdGg9IjIwIiBoZWlnaHQ9IjE4IiByeD0iMiIvPjxwYXRoIGQ9Ik02IDlsMyAzLTMgM00xMyAxNWg1Ii8%2BPC9zdmc%2B)
 ![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-0a0a0a?style=flat-square&logo=raspberrypi&logoColor=c51a4a)
 ![Python](https://img.shields.io/badge/-Python-0a0a0a?style=flat-square&logo=python&logoColor=3776ab)
+![JavaScript](https://img.shields.io/badge/-JavaScript-0a0a0a?style=flat-square&logo=javascript&logoColor=f7df1e)
 ![C](https://img.shields.io/badge/-C-0a0a0a?style=flat-square&logo=c&logoColor=a8b9cc)
 ![Rust](https://img.shields.io/badge/-Rust-0a0a0a?style=flat-square&logo=rust&logoColor=dea584)
 ![Perl](https://img.shields.io/badge/-Perl-0a0a0a?style=flat-square&logo=perl&logoColor=00ff9c)
