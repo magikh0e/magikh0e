@@ -44,6 +44,7 @@ visitor@github:~$ ls ~/projects/
 - **[bitpirate-to-savvycan](https://github.com/magikh0e/bitpirate-to-savvycan)** — Python tools to turn an [ESP32 Bit-Pirate](https://github.com/geo-tp/ESP32-Bit-Pirate) CAN capture into a SavvyCAN (GVRET) CSV with optional DBC decoding, plus a Wi-Fi capture fetcher; stdlib only
 
 ### 🔐 security/
+- **[pueo](https://github.com/magikh0e/pueo)** — a handheld multi-radio field tool on a stock ESP32 “cheap yellow display”: Wi-Fi and BLE reconnaissance, sub-GHz capture and replay, NFC read and clone, GPS wardriving, and jam detection, in a printed enclosure zoned to keep the radios apart. Reproducible builds, a dimensioned case, and write-ups at [pueo.magikh0e.pl](https://pueo.magikh0e.pl); forked from [ESP32-DIV](https://github.com/cifertech/ESP32-DIV) by CiferTech
 - **[Wordlists](https://github.com/magikh0e/Wordlists)** — aggregated, SecLists-derived security-testing wordlists: discovery, fuzzing, passwords, usernames, payloads, and IOCs
 - **[CVEs](https://github.com/magikh0e/CVEs)** — proof-of-concept exploit code for select CVEs
 - **[FlipperZero_Stuff](https://github.com/magikh0e/FlipperZero_Stuff)** — custom firmware, Sub-GHz & IR captures, NFC/RFID, BadUSB payloads, external hardware, and curated tools/links for the Flipper Zero
