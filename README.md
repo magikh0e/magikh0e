@@ -56,6 +56,7 @@ visitor@github:~$ ls ~/projects/
 
 ### 🖨️ 3d-printing/
 - **[PrintVault](https://github.com/magikh0e/PrintVault)** — local-first manager for 3D print files: indexes your folders in place, reads slicer settings from gcode, looks inside unextracted archives, and finds duplicates. Browser or desktop, nothing uploaded
+- **[headfit](https://github.com/magikh0e/headfit)** — helmet and mask fit bench in one HTML file: build a head from three tape measurements, load an STL, and see where it collides before you print. Local-first, nothing uploaded, [live](https://printvault.magikh0e.pl/headfit.html)
 - **[wisblock-case-generator](https://github.com/magikh0e/wisblock-case-generator)** — parametric OpenSCAD case for the RAK19007 + RAK4631 Meshtastic node, snap or screw lid, every dimension tunable
 - **[heltec-v4-case-generator](https://github.com/magikh0e/heltec-v4-case-generator)** — parametric OpenSCAD case for the Heltec WiFi LoRa 32 V4, OLED window + SMA antenna option, ships print-ready STLs
 
