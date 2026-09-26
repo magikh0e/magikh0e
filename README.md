@@ -48,6 +48,7 @@ visitor@github:~$ ls ~/projects/
 - **[Wordlists](https://github.com/magikh0e/Wordlists)** — aggregated, SecLists-derived security-testing wordlists: discovery, fuzzing, passwords, usernames, payloads, and IOCs
 - **[CVEs](https://github.com/magikh0e/CVEs)** — proof-of-concept exploit code for select CVEs
 - **[FlipperZero_Stuff](https://github.com/magikh0e/FlipperZero_Stuff)** — custom firmware, Sub-GHz & IR captures, NFC/RFID, BadUSB payloads, external hardware, and curated tools/links for the Flipper Zero
+- **[nmea_decode](https://github.com/magikh0e/nmea_decode)** — single-file NMEA 0183 decoder for GPS and AIS (file, serial, TCP or UDP; stdlib only, JSON / fix-summary output)
 
 ### 🖥️ self-hosted/
 - **[open-relay](https://github.com/magikh0e/open-relay)** — self-hosted, end-to-end-encrypted chat service (FastAPI + React, native [Tauri](https://tauri.app) desktop app). Channels, threads, DMs with browser-side E2EE and safety numbers — no company in the middle
