@@ -34,6 +34,7 @@ visitor@github:~$ ls ~/projects/
 - **[haos_stuff](https://github.com/magikh0e/haos_stuff)** — my full Home Assistant OS setup: hardware dashboards (grow tents, power stations, 3D printers, unified TV control), automations, voice briefings, custom blueprints, and a reverse-engineered Cannatrol BLE protocol
 - **[ha-home-grow](https://github.com/magikh0e/ha-home-grow)** — native HACS integration for tracking plants (growth stage, health, age)
 - **[ha-medication-reminder](https://github.com/magikh0e/ha-medication-reminder)** · **[-yaml](https://github.com/magikh0e/ha-medication-reminder-yaml)** — UI-managed dose tracking for people and pets: multi-dose schedules, nag + escalation reminders, refill and cost tracking, and fractional doses; custom-integration and YAML-package flavors
+- **[ha-creality-dashboards](https://github.com/magikh0e/ha-creality-dashboards)** — ready-to-use Home Assistant dashboards for Creality printers (K2 Plus and more), built with stock Lovelace cards only so no custom frontend cards are needed; pairs with the ha_creality_ws integration
 
 ### 🌱 gardening/
 - **[PlantManager](https://github.com/magikh0e/PlantManager)** — a complete offline cultivation manager in a single HTML file: mother and clone tracking, feeding and environment logs, KNF and VPD/DLI calculators, harvest, trichome, and cost tracking, lineage and genetic trees, and 30+ SVG analytics charts. Local-first, no accounts, no tracking.
