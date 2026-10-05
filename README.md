@@ -87,6 +87,17 @@ visitor@github:~$ uname -a && cat /etc/stack
 
 ---
 
+```console
+visitor@github:~$ cat ~/.stats
+```
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=magikh0e&show_icons=true&hide_border=true&bg_color=0a0a0a&title_color=00ff9c&icon_color=00ff9c&text_color=b0b0b0" alt="magikh0e's GitHub stats" height="165">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=magikh0e&layout=compact&hide_border=true&bg_color=0a0a0a&title_color=00ff9c&text_color=b0b0b0" alt="Top languages" height="165">
+</p>
+
+---
+
 <div align="center">
 
 [![Followers](https://img.shields.io/github/followers/magikh0e?style=for-the-badge&logo=github&logoColor=00ff9c&label=FOLLOWERS&labelColor=0a0a0a&color=00ff9c)](https://github.com/magikh0e?tab=followers)
