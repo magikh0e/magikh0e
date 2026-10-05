@@ -78,6 +78,7 @@ visitor@github:~$ uname -a && cat /etc/stack
 ![Python](https://img.shields.io/badge/-Python-0a0a0a?style=flat-square&logo=python&logoColor=3776ab)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-0a0a0a?style=flat-square&logo=javascript&logoColor=f7df1e)
 ![C](https://img.shields.io/badge/-C-0a0a0a?style=flat-square&logo=c&logoColor=a8b9cc)
+![C++](https://img.shields.io/badge/-C%2B%2B-0a0a0a?style=flat-square&logo=cplusplus&logoColor=00599C)
 ![Rust](https://img.shields.io/badge/-Rust-0a0a0a?style=flat-square&logo=rust&logoColor=dea584)
 ![Perl](https://img.shields.io/badge/-Perl-0a0a0a?style=flat-square&logo=perl&logoColor=00ff9c)
 ![Assembly](https://img.shields.io/badge/-Assembly-0a0a0a?style=flat-square&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjMDBmZjljIiBzdHJva2Utd2lkdGg9IjIiIHN0cm9rZS1saW5lam9pbj0icm91bmQiPjxyZWN0IHg9IjYiIHk9IjYiIHdpZHRoPSIxMiIgaGVpZ2h0PSIxMiIgcng9IjEiLz48cGF0aCBkPSJNOSAxdjNNMTUgMXYzTTkgMjB2M00xNSAyMHYzTTEgOWgzTTEgMTVoM00yMCA5aDNNMjAgMTVoMyIvPjwvc3ZnPg%3D%3D)
