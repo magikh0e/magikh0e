@@ -77,6 +77,7 @@ visitor@github:~$ uname -a && cat /etc/stack
 ![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-0a0a0a?style=flat-square&logo=raspberrypi&logoColor=c51a4a)
 ![Python](https://img.shields.io/badge/-Python-0a0a0a?style=flat-square&logo=python&logoColor=3776ab)
 ![HTML](https://img.shields.io/badge/-HTML-0a0a0a?style=flat-square&logo=html5&logoColor=e34f26)
+![CSS](https://img.shields.io/badge/-CSS-0a0a0a?style=flat-square&logo=css&logoColor=1572B6)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-0a0a0a?style=flat-square&logo=javascript&logoColor=f7df1e)
 ![C](https://img.shields.io/badge/-C-0a0a0a?style=flat-square&logo=c&logoColor=a8b9cc)
 ![C++](https://img.shields.io/badge/-C%2B%2B-0a0a0a?style=flat-square&logo=cplusplus&logoColor=00599C)
