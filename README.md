@@ -43,8 +43,17 @@ visitor@github:~$ ls ~/projects/
 - **[bitpirate-to-savvycan](https://github.com/magikh0e/bitpirate-to-savvycan)** — Python tools to turn an [ESP32 Bit-Pirate](https://github.com/geo-tp/ESP32-Bit-Pirate) CAN capture into a SavvyCAN (GVRET) CSV with optional DBC decoding, plus a Wi-Fi capture fetcher; stdlib only
 
 ### 🔐 security/
+
+<p align="center">
+  <a href="https://github.com/magikh0e/surveillance-signatures"><img src="https://raw.githubusercontent.com/magikh0e/surveillance-signatures/main/assets/logo-512.png" height="150" alt="Surveillance Signatures"></a>
+  &nbsp;
+  <a href="https://github.com/magikh0e/FlipperZero_Stuff"><img src="https://raw.githubusercontent.com/magikh0e/FlipperZero_Stuff/main/assets/logo-512.png" height="150" alt="Flipper Zero Stuff"></a>
+  &nbsp;
+  <a href="https://github.com/magikh0e/nmea_decode"><img src="https://raw.githubusercontent.com/magikh0e/nmea_decode/main/assets/logo-512.png" height="150" alt="NMEA Decode"></a>
+</p>
+
 - **[pueo](https://github.com/magikh0e/pueo)** — a handheld multi-radio field tool on a stock ESP32 “cheap yellow display”: Wi-Fi and BLE reconnaissance, sub-GHz capture and replay, NFC read and clone, GPS wardriving, and jam detection, in a printed enclosure zoned to keep the radios apart. Reproducible builds, a dimensioned case, and write-ups at [pueo.magikh0e.pl](https://pueo.magikh0e.pl); forked from [ESP32-DIV](https://github.com/cifertech/ESP32-DIV) by CiferTech
-- **[surveillance-signatures](https://github.com/magikh0e/surveillance-signatures)** — WiFi/BLE identifiers that surveillance hardware broadcasts unprompted (plate readers, fixed and body cameras, smart glasses, item trackers, fleet modules, pentest kit): 266 graded signatures across nine tables, as Markdown, CSV and JSON, pulled from [Pueo](https://github.com/magikh0e/pueo)'s detector
+- **[surveillance-signatures](https://github.com/magikh0e/surveillance-signatures)** — WiFi/BLE identifiers that surveillance hardware broadcasts unprompted (plate readers, fixed and body cameras, smart glasses, item trackers, fleet modules, pentest kit): 274 graded signatures across nine tables, as Markdown, CSV and JSON, pulled from [Pueo](https://github.com/magikh0e/pueo)'s detector
 - **[Wordlists](https://github.com/magikh0e/Wordlists)** — aggregated, SecLists-derived security-testing wordlists: discovery, fuzzing, passwords, usernames, payloads, and IOCs
 - **[CVEs](https://github.com/magikh0e/CVEs)** — proof-of-concept exploit code for select CVEs
 - **[FlipperZero_Stuff](https://github.com/magikh0e/FlipperZero_Stuff)** — custom firmware, Sub-GHz & IR captures, NFC/RFID, BadUSB payloads, external hardware, and curated tools/links for the Flipper Zero
