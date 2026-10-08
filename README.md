@@ -66,6 +66,11 @@ visitor@github:~$ ls ~/projects/
 - **[volcano-hybrid-control](https://github.com/magikh0e/volcano-hybrid-control)** — browser Web Bluetooth control for the Storz & Bickel Volcano Hybrid (temperature, heat, fan, presets, bag fill), no app or backend; BLE protocol from [home-assistant-volcano-hybrid](https://github.com/SavageNL/home-assistant-volcano-hybrid)
 
 ### 🖨️ 3d-printing/
+
+<p align="center">
+  <a href="https://github.com/magikh0e/PrintVault"><img src="https://raw.githubusercontent.com/magikh0e/PrintVault/main/assets/logo-512.png" height="150" alt="PrintVault"></a>
+</p>
+
 - **[PrintVault](https://github.com/magikh0e/PrintVault)** — local-first manager for 3D print files: indexes your folders in place, reads slicer settings from gcode, looks inside unextracted archives, and finds duplicates. Browser or desktop, nothing uploaded, [live](https://printvault.magikh0e.pl/app/)
 - **[headfit](https://github.com/magikh0e/headfit)** — helmet and mask fit bench in one HTML file: build a head from three tape measurements, load an STL, and see where it collides before you print. Local-first, nothing uploaded, [live](https://printvault.magikh0e.pl/headfit.html)
 
