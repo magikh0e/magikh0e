@@ -28,49 +28,21 @@ visitor@github:~$ cat .plan
 visitor@github:~$ ls ~/projects/
 ```
 
-### 🏠 home-automation/
-
 <p align="center">
-  <a href="https://github.com/magikh0e/ha-medication-reminder"><img src="https://raw.githubusercontent.com/magikh0e/ha-medication-reminder/main/assets/logo-512.png" height="180" alt="HA Medication Reminder"></a>
-</p>
-
-- **[haos_stuff](https://github.com/magikh0e/haos_stuff)** — my full Home Assistant OS setup: hardware dashboards (grow tents, power stations, 3D printers, unified TV control), automations, voice briefings, custom blueprints, and a reverse-engineered Cannatrol BLE protocol
-- **[ha-home-grow](https://github.com/magikh0e/ha-home-grow)** — native HACS integration for tracking plants (growth stage, health, age)
-- **[ha-medication-reminder](https://github.com/magikh0e/ha-medication-reminder)** · **[-yaml](https://github.com/magikh0e/ha-medication-reminder-yaml)** — UI-managed dose tracking for people and pets: multi-dose schedules, nag + escalation reminders, refill and cost tracking, and fractional doses; custom-integration and YAML-package flavors, [guide](https://magikh0e.pl/pubHomeAutomation/medication-reminder.html)
-- **[ha-creality-dashboards](https://github.com/magikh0e/ha-creality-dashboards)** — ready-to-use Home Assistant dashboards for Creality printers (K2 Plus and more), built with stock Lovelace cards only so no custom frontend cards are needed; pairs with the ha_creality_ws integration
-
-### 🌱 gardening/
-
-<p align="center">
-  <a href="https://github.com/magikh0e/PlantManager"><img src="https://raw.githubusercontent.com/magikh0e/PlantManager/main/assets/logo-512.png" height="180" alt="PlantManager"></a>
-</p>
-
-- **[PlantManager](https://github.com/magikh0e/PlantManager)** — a complete offline cultivation manager in a single HTML file: mother and clone tracking, feeding and environment logs, KNF and VPD/DLI calculators, harvest, trichome, and cost tracking, lineage and genetic trees, and 30+ SVG analytics charts. Local-first, no accounts, no tracking.
-
-### 🚗 car-hacking/
-
-<p align="center">
-  <a href="https://github.com/magikh0e/canbus-scripts"><img src="https://raw.githubusercontent.com/magikh0e/canbus-scripts/main/assets/logo-512.png" height="180" alt="canbus-scripts"></a>
+  <a href="https://github.com/magikh0e/pueo"><img src="https://raw.githubusercontent.com/magikh0e/pueo/pueo/assets/logo-512.png" height="185" alt="Pueo"></a>
   &nbsp;
-  <a href="https://github.com/magikh0e/bitpirate-to-savvycan"><img src="https://raw.githubusercontent.com/magikh0e/bitpirate-to-savvycan/main/assets/logo-512.png" height="180" alt="bitpirate-to-savvycan"></a>
+  <a href="https://github.com/magikh0e/surveillance-signatures"><img src="https://raw.githubusercontent.com/magikh0e/surveillance-signatures/main/assets/logo-512.png" height="185" alt="Surveillance Signatures"></a>
+  &nbsp;
+  <a href="https://github.com/magikh0e/FlipperZero_Stuff"><img src="https://raw.githubusercontent.com/magikh0e/FlipperZero_Stuff/main/assets/logo-512.png" height="185" alt="Flipper Zero Stuff"></a>
+  &nbsp;
+  <a href="https://github.com/magikh0e/open-relay"><img src="https://raw.githubusercontent.com/magikh0e/open-relay/main/assets/logo-512.png" height="185" alt="Open Relay"></a>
 </p>
 
-- **[canbus-scripts](https://github.com/magikh0e/canbus-scripts)** — bash + can-utils diagnostics over SocketCAN: OBD-II PIDs, DTC clearing, and a live engine dashboard for Linux / Raspberry Pi rigs
-- **[jeep-jl-powernet-scripts](https://github.com/magikh0e/jeep-jl-powernet-scripts)** — Linux/SocketCAN tooling for the 2018+ Jeep Wrangler (JL) "Powernet" CAN bus: read sensors, drive the HVAC and EVIC dash, honk, hold RPM, and live-dashboard the bus
-- **[bitpirate-to-savvycan](https://github.com/magikh0e/bitpirate-to-savvycan)** — Python tools to turn an [ESP32 Bit-Pirate](https://github.com/geo-tp/ESP32-Bit-Pirate) CAN capture into a SavvyCAN (GVRET) CSV with optional DBC decoding, plus a Wi-Fi capture fetcher; stdlib only
+### 🌐 the-site/ — [magikh0e.pl](https://magikh0e.pl)
+
+The hub: a **~27,000-entry searchable exploit archive**, hardware & car-hacking guides, home-lab write-ups, and a handful of infosec browser games — [Hack the Gibson](https://magikh0e.pl/gibson/), [Exploit-dle](https://magikh0e.pl/exploit-dle/), [Crypto-dle](https://magikh0e.pl/crypto-dle/), and more.
 
 ### 🔐 security/
-
-<p align="center">
-  <a href="https://github.com/magikh0e/pueo"><img src="https://raw.githubusercontent.com/magikh0e/pueo/pueo/assets/logo-512.png" height="180" alt="Pueo"></a>
-  &nbsp;
-  <a href="https://github.com/magikh0e/surveillance-signatures"><img src="https://raw.githubusercontent.com/magikh0e/surveillance-signatures/main/assets/logo-512.png" height="180" alt="Surveillance Signatures"></a>
-  &nbsp;
-  <a href="https://github.com/magikh0e/FlipperZero_Stuff"><img src="https://raw.githubusercontent.com/magikh0e/FlipperZero_Stuff/main/assets/logo-512.png" height="180" alt="Flipper Zero Stuff"></a>
-  &nbsp;
-  <a href="https://github.com/magikh0e/nmea_decode"><img src="https://raw.githubusercontent.com/magikh0e/nmea_decode/main/assets/logo-512.png" height="180" alt="NMEA Decode"></a>
-</p>
-
 - **[pueo](https://github.com/magikh0e/pueo)** — a handheld multi-radio field tool on a stock ESP32 “cheap yellow display”: Wi-Fi and BLE reconnaissance, sub-GHz capture and replay, NFC read and clone, GPS wardriving, and jam detection, in a printed enclosure zoned to keep the radios apart. Reproducible builds, a dimensioned case, and write-ups at [pueo.magikh0e.pl](https://pueo.magikh0e.pl); forked from [ESP32-DIV](https://github.com/cifertech/ESP32-DIV) by CiferTech
 - **[surveillance-signatures](https://github.com/magikh0e/surveillance-signatures)** — WiFi/BLE identifiers that surveillance hardware broadcasts unprompted (plate readers, fixed and body cameras, smart glasses, item trackers, fleet modules, pentest kit): 274 graded signatures across nine tables, as Markdown, CSV and JSON, pulled from [Pueo](https://github.com/magikh0e/pueo)'s detector
 - **[Wordlists](https://github.com/magikh0e/Wordlists)** — aggregated, SecLists-derived security-testing wordlists: discovery, fuzzing, passwords, usernames, payloads, and IOCs
@@ -78,30 +50,27 @@ visitor@github:~$ ls ~/projects/
 - **[FlipperZero_Stuff](https://github.com/magikh0e/FlipperZero_Stuff)** — custom firmware, Sub-GHz & IR captures, NFC/RFID, BadUSB payloads, external hardware, and curated tools/links for the Flipper Zero
 - **[nmea_decode](https://github.com/magikh0e/nmea_decode)** — single-file NMEA 0183 decoder for GPS and AIS (file, serial, TCP or UDP; stdlib only, JSON / fix-summary output)
 
+### 🚗 car-hacking/
+- **[canbus-scripts](https://github.com/magikh0e/canbus-scripts)** — bash + can-utils diagnostics over SocketCAN: OBD-II PIDs, DTC clearing, and a live engine dashboard for Linux / Raspberry Pi rigs
+- **[jeep-jl-powernet-scripts](https://github.com/magikh0e/jeep-jl-powernet-scripts)** — Linux/SocketCAN tooling for the 2018+ Jeep Wrangler (JL) "Powernet" CAN bus: read sensors, drive the HVAC and EVIC dash, honk, hold RPM, and live-dashboard the bus
+- **[bitpirate-to-savvycan](https://github.com/magikh0e/bitpirate-to-savvycan)** — Python tools to turn an [ESP32 Bit-Pirate](https://github.com/geo-tp/ESP32-Bit-Pirate) CAN capture into a SavvyCAN (GVRET) CSV with optional DBC decoding, plus a Wi-Fi capture fetcher; stdlib only
+
 ### 🖥️ self-hosted/
-
-<p align="center">
-  <a href="https://github.com/magikh0e/open-relay"><img src="https://raw.githubusercontent.com/magikh0e/open-relay/main/assets/logo-512.png" height="180" alt="Open Relay"></a>
-  &nbsp;
-  <a href="https://github.com/magikh0e/volcano-hybrid-control"><img src="https://raw.githubusercontent.com/magikh0e/volcano-hybrid-control/main/assets/logo-512.png" height="180" alt="Volcano Hybrid Control"></a>
-</p>
-
 - **[open-relay](https://github.com/magikh0e/open-relay)** — self-hosted, end-to-end-encrypted chat service (FastAPI + React, native [Tauri](https://tauri.app) desktop app). Channels, threads, DMs with browser-side E2EE and safety numbers — no company in the middle
 - **[volcano-hybrid-control](https://github.com/magikh0e/volcano-hybrid-control)** — browser Web Bluetooth control for the Storz & Bickel Volcano Hybrid (temperature, heat, fan, presets, bag fill), no app or backend; BLE protocol from [home-assistant-volcano-hybrid](https://github.com/SavageNL/home-assistant-volcano-hybrid)
 
 ### 🖨️ 3d-printing/
-
-<p align="center">
-  <a href="https://github.com/magikh0e/PrintVault"><img src="https://raw.githubusercontent.com/magikh0e/PrintVault/main/assets/logo-512.png" height="180" alt="PrintVault"></a>
-  &nbsp;
-  <a href="https://github.com/magikh0e/headfit"><img src="https://raw.githubusercontent.com/magikh0e/headfit/main/assets/logo-512.png" height="180" alt="headfit"></a>
-</p>
-
 - **[PrintVault](https://github.com/magikh0e/PrintVault)** — local-first manager for 3D print files: indexes your folders in place, reads slicer settings from gcode, looks inside unextracted archives, and finds duplicates. Browser or desktop, nothing uploaded, [live](https://printvault.magikh0e.pl/app/)
 - **[headfit](https://github.com/magikh0e/headfit)** — helmet and mask fit bench in one HTML file: build a head from three tape measurements, load an STL, and see where it collides before you print. Local-first, nothing uploaded, [live](https://printvault.magikh0e.pl/headfit.html)
 
-### 🌐 the-site/
-- **[magikh0e.pl](https://magikh0e.pl)** — exploit archive, hardware & car-hacking guides, home-lab write-ups, and a few infosec browser games ([Hack the Gibson](https://magikh0e.pl/gibson/), [Exploit-dle](https://magikh0e.pl/exploit-dle/), [Crypto-dle](https://magikh0e.pl/crypto-dle/))
+### 🏠 home-automation/
+- **[haos_stuff](https://github.com/magikh0e/haos_stuff)** — my full Home Assistant OS setup: hardware dashboards (grow tents, power stations, 3D printers, unified TV control), automations, voice briefings, custom blueprints, and a reverse-engineered Cannatrol BLE protocol
+- **[ha-home-grow](https://github.com/magikh0e/ha-home-grow)** — native HACS integration for tracking plants (growth stage, health, age)
+- **[ha-medication-reminder](https://github.com/magikh0e/ha-medication-reminder)** · **[-yaml](https://github.com/magikh0e/ha-medication-reminder-yaml)** — UI-managed dose tracking for people and pets: multi-dose schedules, nag + escalation reminders, refill and cost tracking, and fractional doses; custom-integration and YAML-package flavors, [guide](https://magikh0e.pl/pubHomeAutomation/medication-reminder.html)
+- **[ha-creality-dashboards](https://github.com/magikh0e/ha-creality-dashboards)** — ready-to-use Home Assistant dashboards for Creality printers (K2 Plus and more), built with stock Lovelace cards only so no custom frontend cards are needed; pairs with the ha_creality_ws integration
+
+### 🌱 gardening/
+- **[PlantManager](https://github.com/magikh0e/PlantManager)** — a complete offline cultivation manager in a single HTML file: mother and clone tracking, feeding and environment logs, KNF and VPD/DLI calculators, harvest, trichome, and cost tracking, lineage and genetic trees, and 30+ SVG analytics charts. Local-first, no accounts, no tracking.
 
 ---
 
