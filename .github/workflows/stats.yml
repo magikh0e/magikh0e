@@ -1,0 +1,63 @@
+name: Refresh stat cards
+
+# Caches the GitHub stat cards as static SVGs in assets/ so the profile README
+# never depends on the shared github-readme-stats instance at render time. The
+# fetch runs once a day (plus on demand); if the upstream is down or rate-limited
+# the last good card is kept, so the README never shows a broken image.
+
+on:
+  schedule:
+    - cron: "17 6 * * *"   # daily ~06:17 UTC
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+concurrency:
+  group: refresh-stat-cards
+  cancel-in-progress: true
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Fetch stat cards
+        env:
+          STATS_URL: "https://github-readme-stats.vercel.app/api?username=magikh0e&show_icons=true&hide_border=true&bg_color=0a0a0a&title_color=00ff9c&icon_color=00ff9c&text_color=b0b0b0"
+          LANGS_URL: "https://github-readme-stats.vercel.app/api/top-langs/?username=magikh0e&layout=compact&hide_border=true&bg_color=0a0a0a&title_color=00ff9c&text_color=b0b0b0"
+        run: |
+          mkdir -p assets
+          fetch() {
+            url="$1"; out="$2"
+            for n in 1 2 3 4 5; do
+              code=$(curl -sS -A "magikh0e-profile-cron" -w '%{http_code}' -o "$out.tmp" "$url" || echo 000)
+              if [ "$code" = "200" ] \
+                 && head -c 200 "$out.tmp" | grep -qi '<svg' \
+                 && ! grep -qi 'Something went wrong\|Maximum retries\|rate limit\|Not Found' "$out.tmp"; then
+                mv "$out.tmp" "$out"
+                echo "updated $out"
+                return 0
+              fi
+              echo "attempt $n for $out failed (http $code); retrying..."
+              sleep 10
+            done
+            echo "::warning::could not refresh $out — keeping the existing card"
+            rm -f "$out.tmp"
+            return 0
+          }
+          fetch "$STATS_URL" assets/stats.svg
+          fetch "$LANGS_URL" assets/top-langs.svg
+
+      - name: Commit if changed
+        run: |
+          git config user.name  "magikh0e"
+          git config user.email "magikh0e@gmail.com"
+          git add assets/stats.svg assets/top-langs.svg
+          if git diff --cached --quiet; then
+            echo "no changes"
+          else
+            git commit -m "stats: refresh cached stat cards"
+            git push
+          fi

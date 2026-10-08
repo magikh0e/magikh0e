@@ -104,8 +104,8 @@ visitor@github:~$ cat ~/.stats
 ```
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=magikh0e&show_icons=true&hide_border=true&bg_color=0a0a0a&title_color=00ff9c&icon_color=00ff9c&text_color=b0b0b0" alt="magikh0e's GitHub stats" height="165">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=magikh0e&layout=compact&hide_border=true&bg_color=0a0a0a&title_color=00ff9c&text_color=b0b0b0" alt="Top languages" height="165">
+  <img src="https://raw.githubusercontent.com/magikh0e/magikh0e/main/assets/stats.svg" alt="magikh0e's GitHub stats" height="165">
+  <img src="https://raw.githubusercontent.com/magikh0e/magikh0e/main/assets/top-langs.svg" alt="Top languages" height="165">
 </p>
 
 ---
