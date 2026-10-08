@@ -45,6 +45,8 @@ visitor@github:~$ ls ~/projects/
 ### 🔐 security/
 
 <p align="center">
+  <a href="https://github.com/magikh0e/pueo"><img src="https://raw.githubusercontent.com/magikh0e/pueo/pueo/assets/logo-512.png" height="150" alt="Pueo"></a>
+  &nbsp;
   <a href="https://github.com/magikh0e/surveillance-signatures"><img src="https://raw.githubusercontent.com/magikh0e/surveillance-signatures/main/assets/logo-512.png" height="150" alt="Surveillance Signatures"></a>
   &nbsp;
   <a href="https://github.com/magikh0e/FlipperZero_Stuff"><img src="https://raw.githubusercontent.com/magikh0e/FlipperZero_Stuff/main/assets/logo-512.png" height="150" alt="Flipper Zero Stuff"></a>
