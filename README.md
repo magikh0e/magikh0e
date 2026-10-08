@@ -72,6 +72,11 @@ visitor@github:~$ ls ~/projects/
 - **[nmea_decode](https://github.com/magikh0e/nmea_decode)** — single-file NMEA 0183 decoder for GPS and AIS (file, serial, TCP or UDP; stdlib only, JSON / fix-summary output)
 
 ### 🖥️ self-hosted/
+
+<p align="center">
+  <a href="https://github.com/magikh0e/volcano-hybrid-control"><img src="https://raw.githubusercontent.com/magikh0e/volcano-hybrid-control/main/assets/logo-512.png" height="150" alt="Volcano Hybrid Control"></a>
+</p>
+
 - **[open-relay](https://github.com/magikh0e/open-relay)** — self-hosted, end-to-end-encrypted chat service (FastAPI + React, native [Tauri](https://tauri.app) desktop app). Channels, threads, DMs with browser-side E2EE and safety numbers — no company in the middle
 - **[volcano-hybrid-control](https://github.com/magikh0e/volcano-hybrid-control)** — browser Web Bluetooth control for the Storz & Bickel Volcano Hybrid (temperature, heat, fan, presets, bag fill), no app or backend; BLE protocol from [home-assistant-volcano-hybrid](https://github.com/SavageNL/home-assistant-volcano-hybrid)
 
@@ -79,6 +84,8 @@ visitor@github:~$ ls ~/projects/
 
 <p align="center">
   <a href="https://github.com/magikh0e/PrintVault"><img src="https://raw.githubusercontent.com/magikh0e/PrintVault/main/assets/logo-512.png" height="150" alt="PrintVault"></a>
+  &nbsp;
+  <a href="https://github.com/magikh0e/headfit"><img src="https://raw.githubusercontent.com/magikh0e/headfit/main/assets/logo-512.png" height="150" alt="headfit"></a>
 </p>
 
 - **[PrintVault](https://github.com/magikh0e/PrintVault)** — local-first manager for 3D print files: indexes your folders in place, reads slicer settings from gcode, looks inside unextracted archives, and finds duplicates. Browser or desktop, nothing uploaded, [live](https://printvault.magikh0e.pl/app/)
