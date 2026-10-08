@@ -40,6 +40,11 @@ visitor@github:~$ ls ~/projects/
 - **[ha-creality-dashboards](https://github.com/magikh0e/ha-creality-dashboards)** — ready-to-use Home Assistant dashboards for Creality printers (K2 Plus and more), built with stock Lovelace cards only so no custom frontend cards are needed; pairs with the ha_creality_ws integration
 
 ### 🌱 gardening/
+
+<p align="center">
+  <a href="https://github.com/magikh0e/PlantManager"><img src="https://raw.githubusercontent.com/magikh0e/PlantManager/main/assets/logo-512.png" height="150" alt="PlantManager"></a>
+</p>
+
 - **[PlantManager](https://github.com/magikh0e/PlantManager)** — a complete offline cultivation manager in a single HTML file: mother and clone tracking, feeding and environment logs, KNF and VPD/DLI calculators, harvest, trichome, and cost tracking, lineage and genetic trees, and 30+ SVG analytics charts. Local-first, no accounts, no tracking.
 
 ### 🚗 car-hacking/
