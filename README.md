@@ -29,6 +29,11 @@ visitor@github:~$ ls ~/projects/
 ```
 
 ### 🏠 home-automation/
+
+<p align="center">
+  <a href="https://github.com/magikh0e/ha-medication-reminder"><img src="https://raw.githubusercontent.com/magikh0e/ha-medication-reminder/main/assets/logo-512.png" height="150" alt="HA Medication Reminder"></a>
+</p>
+
 - **[haos_stuff](https://github.com/magikh0e/haos_stuff)** — my full Home Assistant OS setup: hardware dashboards (grow tents, power stations, 3D printers, unified TV control), automations, voice briefings, custom blueprints, and a reverse-engineered Cannatrol BLE protocol
 - **[ha-home-grow](https://github.com/magikh0e/ha-home-grow)** — native HACS integration for tracking plants (growth stage, health, age)
 - **[ha-medication-reminder](https://github.com/magikh0e/ha-medication-reminder)** · **[-yaml](https://github.com/magikh0e/ha-medication-reminder-yaml)** — UI-managed dose tracking for people and pets: multi-dose schedules, nag + escalation reminders, refill and cost tracking, and fractional doses; custom-integration and YAML-package flavors, [guide](https://magikh0e.pl/pubHomeAutomation/medication-reminder.html)
