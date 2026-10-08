@@ -48,6 +48,13 @@ visitor@github:~$ ls ~/projects/
 - **[PlantManager](https://github.com/magikh0e/PlantManager)** — a complete offline cultivation manager in a single HTML file: mother and clone tracking, feeding and environment logs, KNF and VPD/DLI calculators, harvest, trichome, and cost tracking, lineage and genetic trees, and 30+ SVG analytics charts. Local-first, no accounts, no tracking.
 
 ### 🚗 car-hacking/
+
+<p align="center">
+  <a href="https://github.com/magikh0e/canbus-scripts"><img src="https://raw.githubusercontent.com/magikh0e/canbus-scripts/main/assets/logo-512.png" height="150" alt="canbus-scripts"></a>
+  &nbsp;
+  <a href="https://github.com/magikh0e/bitpirate-to-savvycan"><img src="https://raw.githubusercontent.com/magikh0e/bitpirate-to-savvycan/main/assets/logo-512.png" height="150" alt="bitpirate-to-savvycan"></a>
+</p>
+
 - **[canbus-scripts](https://github.com/magikh0e/canbus-scripts)** — bash + can-utils diagnostics over SocketCAN: OBD-II PIDs, DTC clearing, and a live engine dashboard for Linux / Raspberry Pi rigs
 - **[jeep-jl-powernet-scripts](https://github.com/magikh0e/jeep-jl-powernet-scripts)** — Linux/SocketCAN tooling for the 2018+ Jeep Wrangler (JL) "Powernet" CAN bus: read sensors, drive the HVAC and EVIC dash, honk, hold RPM, and live-dashboard the bus
 - **[bitpirate-to-savvycan](https://github.com/magikh0e/bitpirate-to-savvycan)** — Python tools to turn an [ESP32 Bit-Pirate](https://github.com/geo-tp/ESP32-Bit-Pirate) CAN capture into a SavvyCAN (GVRET) CSV with optional DBC decoding, plus a Wi-Fi capture fetcher; stdlib only
