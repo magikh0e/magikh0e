@@ -31,7 +31,7 @@ visitor@github:~$ ls ~/projects/
 ### 🏠 home-automation/
 
 <p align="center">
-  <a href="https://github.com/magikh0e/ha-medication-reminder"><img src="https://raw.githubusercontent.com/magikh0e/ha-medication-reminder/main/assets/logo-512.png" height="150" alt="HA Medication Reminder"></a>
+  <a href="https://github.com/magikh0e/ha-medication-reminder"><img src="https://raw.githubusercontent.com/magikh0e/ha-medication-reminder/main/assets/logo-512.png" height="180" alt="HA Medication Reminder"></a>
 </p>
 
 - **[haos_stuff](https://github.com/magikh0e/haos_stuff)** — my full Home Assistant OS setup: hardware dashboards (grow tents, power stations, 3D printers, unified TV control), automations, voice briefings, custom blueprints, and a reverse-engineered Cannatrol BLE protocol
@@ -42,7 +42,7 @@ visitor@github:~$ ls ~/projects/
 ### 🌱 gardening/
 
 <p align="center">
-  <a href="https://github.com/magikh0e/PlantManager"><img src="https://raw.githubusercontent.com/magikh0e/PlantManager/main/assets/logo-512.png" height="150" alt="PlantManager"></a>
+  <a href="https://github.com/magikh0e/PlantManager"><img src="https://raw.githubusercontent.com/magikh0e/PlantManager/main/assets/logo-512.png" height="180" alt="PlantManager"></a>
 </p>
 
 - **[PlantManager](https://github.com/magikh0e/PlantManager)** — a complete offline cultivation manager in a single HTML file: mother and clone tracking, feeding and environment logs, KNF and VPD/DLI calculators, harvest, trichome, and cost tracking, lineage and genetic trees, and 30+ SVG analytics charts. Local-first, no accounts, no tracking.
@@ -50,9 +50,9 @@ visitor@github:~$ ls ~/projects/
 ### 🚗 car-hacking/
 
 <p align="center">
-  <a href="https://github.com/magikh0e/canbus-scripts"><img src="https://raw.githubusercontent.com/magikh0e/canbus-scripts/main/assets/logo-512.png" height="150" alt="canbus-scripts"></a>
+  <a href="https://github.com/magikh0e/canbus-scripts"><img src="https://raw.githubusercontent.com/magikh0e/canbus-scripts/main/assets/logo-512.png" height="180" alt="canbus-scripts"></a>
   &nbsp;
-  <a href="https://github.com/magikh0e/bitpirate-to-savvycan"><img src="https://raw.githubusercontent.com/magikh0e/bitpirate-to-savvycan/main/assets/logo-512.png" height="150" alt="bitpirate-to-savvycan"></a>
+  <a href="https://github.com/magikh0e/bitpirate-to-savvycan"><img src="https://raw.githubusercontent.com/magikh0e/bitpirate-to-savvycan/main/assets/logo-512.png" height="180" alt="bitpirate-to-savvycan"></a>
 </p>
 
 - **[canbus-scripts](https://github.com/magikh0e/canbus-scripts)** — bash + can-utils diagnostics over SocketCAN: OBD-II PIDs, DTC clearing, and a live engine dashboard for Linux / Raspberry Pi rigs
@@ -62,13 +62,13 @@ visitor@github:~$ ls ~/projects/
 ### 🔐 security/
 
 <p align="center">
-  <a href="https://github.com/magikh0e/pueo"><img src="https://raw.githubusercontent.com/magikh0e/pueo/pueo/assets/logo-512.png" height="150" alt="Pueo"></a>
+  <a href="https://github.com/magikh0e/pueo"><img src="https://raw.githubusercontent.com/magikh0e/pueo/pueo/assets/logo-512.png" height="180" alt="Pueo"></a>
   &nbsp;
-  <a href="https://github.com/magikh0e/surveillance-signatures"><img src="https://raw.githubusercontent.com/magikh0e/surveillance-signatures/main/assets/logo-512.png" height="150" alt="Surveillance Signatures"></a>
+  <a href="https://github.com/magikh0e/surveillance-signatures"><img src="https://raw.githubusercontent.com/magikh0e/surveillance-signatures/main/assets/logo-512.png" height="180" alt="Surveillance Signatures"></a>
   &nbsp;
-  <a href="https://github.com/magikh0e/FlipperZero_Stuff"><img src="https://raw.githubusercontent.com/magikh0e/FlipperZero_Stuff/main/assets/logo-512.png" height="150" alt="Flipper Zero Stuff"></a>
+  <a href="https://github.com/magikh0e/FlipperZero_Stuff"><img src="https://raw.githubusercontent.com/magikh0e/FlipperZero_Stuff/main/assets/logo-512.png" height="180" alt="Flipper Zero Stuff"></a>
   &nbsp;
-  <a href="https://github.com/magikh0e/nmea_decode"><img src="https://raw.githubusercontent.com/magikh0e/nmea_decode/main/assets/logo-512.png" height="150" alt="NMEA Decode"></a>
+  <a href="https://github.com/magikh0e/nmea_decode"><img src="https://raw.githubusercontent.com/magikh0e/nmea_decode/main/assets/logo-512.png" height="180" alt="NMEA Decode"></a>
 </p>
 
 - **[pueo](https://github.com/magikh0e/pueo)** — a handheld multi-radio field tool on a stock ESP32 “cheap yellow display”: Wi-Fi and BLE reconnaissance, sub-GHz capture and replay, NFC read and clone, GPS wardriving, and jam detection, in a printed enclosure zoned to keep the radios apart. Reproducible builds, a dimensioned case, and write-ups at [pueo.magikh0e.pl](https://pueo.magikh0e.pl); forked from [ESP32-DIV](https://github.com/cifertech/ESP32-DIV) by CiferTech
@@ -81,7 +81,9 @@ visitor@github:~$ ls ~/projects/
 ### 🖥️ self-hosted/
 
 <p align="center">
-  <a href="https://github.com/magikh0e/volcano-hybrid-control"><img src="https://raw.githubusercontent.com/magikh0e/volcano-hybrid-control/main/assets/logo-512.png" height="150" alt="Volcano Hybrid Control"></a>
+  <a href="https://github.com/magikh0e/open-relay"><img src="https://raw.githubusercontent.com/magikh0e/open-relay/main/assets/logo-512.png" height="180" alt="Open Relay"></a>
+  &nbsp;
+  <a href="https://github.com/magikh0e/volcano-hybrid-control"><img src="https://raw.githubusercontent.com/magikh0e/volcano-hybrid-control/main/assets/logo-512.png" height="180" alt="Volcano Hybrid Control"></a>
 </p>
 
 - **[open-relay](https://github.com/magikh0e/open-relay)** — self-hosted, end-to-end-encrypted chat service (FastAPI + React, native [Tauri](https://tauri.app) desktop app). Channels, threads, DMs with browser-side E2EE and safety numbers — no company in the middle
@@ -90,9 +92,9 @@ visitor@github:~$ ls ~/projects/
 ### 🖨️ 3d-printing/
 
 <p align="center">
-  <a href="https://github.com/magikh0e/PrintVault"><img src="https://raw.githubusercontent.com/magikh0e/PrintVault/main/assets/logo-512.png" height="150" alt="PrintVault"></a>
+  <a href="https://github.com/magikh0e/PrintVault"><img src="https://raw.githubusercontent.com/magikh0e/PrintVault/main/assets/logo-512.png" height="180" alt="PrintVault"></a>
   &nbsp;
-  <a href="https://github.com/magikh0e/headfit"><img src="https://raw.githubusercontent.com/magikh0e/headfit/main/assets/logo-512.png" height="150" alt="headfit"></a>
+  <a href="https://github.com/magikh0e/headfit"><img src="https://raw.githubusercontent.com/magikh0e/headfit/main/assets/logo-512.png" height="180" alt="headfit"></a>
 </p>
 
 - **[PrintVault](https://github.com/magikh0e/PrintVault)** — local-first manager for 3D print files: indexes your folders in place, reads slicer settings from gcode, looks inside unextracted archives, and finds duplicates. Browser or desktop, nothing uploaded, [live](https://printvault.magikh0e.pl/app/)
