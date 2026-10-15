@@ -40,7 +40,7 @@ visitor@github:~$ ls ~/projects/
 
 ### 🌐 the-site/ — [magikh0e.pl](https://magikh0e.pl)
 
-The hub: a **~27,000-entry searchable exploit archive**, hardware & car-hacking guides, home-lab write-ups, and a handful of infosec browser games — [Hack the Gibson](https://magikh0e.pl/gibson/), [Exploit-dle](https://magikh0e.pl/exploit-dle/), [Crypto-dle](https://magikh0e.pl/crypto-dle/), and more.
+The hub: a **~27,000-entry searchable exploit archive**, hardware & car-hacking guides, home-lab write-ups, and a handful of infosec browser games — [Hack the Planet Pinball](https://magikh0e.pl/pinball/) (a *Hackers* (1995) table with a worldwide top 10, a street race against Kate, and secret levels to find), [Hack the Gibson](https://magikh0e.pl/gibson/), [Exploit-dle](https://magikh0e.pl/exploit-dle/), [Crypto-dle](https://magikh0e.pl/crypto-dle/), and more.
 
 ### 🔐 security/
 - **[pueo](https://github.com/magikh0e/pueo)** — a handheld multi-radio field tool on a stock ESP32 “cheap yellow display”: Wi-Fi and BLE reconnaissance, sub-GHz capture and replay, NFC read and clone, GPS wardriving, and jam detection, in a printed enclosure zoned to keep the radios apart. Reproducible builds, a dimensioned case, and write-ups at [pueo.magikh0e.pl](https://pueo.magikh0e.pl); forked from [ESP32-DIV](https://github.com/cifertech/ESP32-DIV) by CiferTech
@@ -54,6 +54,10 @@ The hub: a **~27,000-entry searchable exploit archive**, hardware & car-hacking 
 - **[canbus-scripts](https://github.com/magikh0e/canbus-scripts)** — bash + can-utils diagnostics over SocketCAN: OBD-II PIDs, DTC clearing, and a live engine dashboard for Linux / Raspberry Pi rigs
 - **[jeep-jl-powernet-scripts](https://github.com/magikh0e/jeep-jl-powernet-scripts)** — Linux/SocketCAN tooling for the 2018+ Jeep Wrangler (JL) "Powernet" CAN bus: read sensors, drive the HVAC and EVIC dash, honk, hold RPM, and live-dashboard the bus
 - **[bitpirate-to-savvycan](https://github.com/magikh0e/bitpirate-to-savvycan)** — Python tools to turn an [ESP32 Bit-Pirate](https://github.com/geo-tp/ESP32-Bit-Pirate) CAN capture into a SavvyCAN (GVRET) CSV with optional DBC decoding, plus a Wi-Fi capture fetcher; stdlib only
+
+### 🕹️ esp32-toys/
+- **[synack-pinball](https://github.com/magikh0e/synack-pinball)** — SYN/ACK, a pinball table for 3.5" 320×480 ESP32 touch boards (the CYD ESP32-3248S035R and the ESP32-S3 ES3C35P) from one codebase: S-Y-N lanes, A-C-K targets, and a HANDSHAKE jackpot that starts SYN FLOOD multiball, with touch flippers and a hold-to-charge plunger
+- **[sprout](https://github.com/magikh0e/sprout)** — an ambient hacker pet for the 3.5" Cheap Yellow Display: a hooded hacker that breathes, blinks, chats IRC-style, reacts when you poke it, and keeps up with real data (weather, a Hacker News ticker, a host monitor, the Wi-Fi it can see)
 
 ### 🖥️ self-hosted/
 - **[open-relay](https://github.com/magikh0e/open-relay)** — self-hosted, end-to-end-encrypted chat service (FastAPI + React, native [Tauri](https://tauri.app) desktop app). Channels, threads, DMs with browser-side E2EE and safety numbers — no company in the middle
