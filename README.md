@@ -47,7 +47,7 @@ The hub: a **~27,000-entry searchable exploit archive**, hardware & car-hacking 
 - **[volcano-hybrid-control](https://github.com/magikh0e/volcano-hybrid-control)** — browser Web Bluetooth control for the Storz & Bickel Volcano Hybrid (temperature, heat, fan, presets, bag fill), no app or backend; BLE protocol from [home-assistant-volcano-hybrid](https://github.com/SavageNL/home-assistant-volcano-hybrid)
 
 ### 🖨️ 3d-printing/
-- **[Printery](https://github.com/magikh0e/Printery)** — local-first manager for 3D print files: indexes your folders in place, reads slicer settings from gcode, looks inside unextracted archives, and finds duplicates. Browser or desktop, nothing uploaded, [live](https://printery.magikh0e.com/app/)
+- **[Printery](https://github.com/magikh0e/Printery)** (formerly PrintVault) — local-first manager for 3D print files: indexes your folders in place, reads slicer settings from gcode, looks inside unextracted archives, and finds duplicates. Browser or desktop, nothing uploaded, [live](https://printery.magikh0e.com/app/)
 - **[headfit](https://github.com/magikh0e/headfit)** — helmet and mask fit bench in one HTML file: build a head from three tape measurements, load an STL, and see where it collides before you print. Local-first, nothing uploaded, [live](https://printery.magikh0e.com/headfit.html)
 
 ### 🏠 home-automation/
