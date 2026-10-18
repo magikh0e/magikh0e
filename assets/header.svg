@@ -1,0 +1,56 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="352" viewBox="0 0 900 352" role="img" aria-label="magikh0e"
+     font-family="JetBrains Mono, Consolas, Menlo, 'DejaVu Sans Mono', ui-monospace, monospace">
+<style>
+  text, tspan { white-space: pre; }
+  .banner { font-size: 14px; fill: #39ff8c; }
+  .tag { font-size: 14px; fill: #7fae8c; }
+  .fg text { font-size: 15px; }
+  .p { fill: #39ff8c; } .m { fill: #7fae8c; } .t { fill: #bfeaca; } .g { fill: #39ff8c; font-weight: bold; } .a { fill: #ffb347; }
+  .bar { font-size: 12px; fill: #7fae8c; }
+  .still { display: none; }
+  @media (prefers-reduced-motion: reduce) { .rolling, .cursor { display: none; } .still { display: inline; } }
+</style>
+<defs>
+  <clipPath id="card"><rect width="900" height="352" rx="12"/></clipPath>
+  <pattern id="crt" width="4" height="3" patternUnits="userSpaceOnUse"><rect width="4" height="1" fill="#000" fill-opacity="0.28"/></pattern>
+  <filter id="phosphor" x="-5%" y="-20%" width="110%" height="140%">
+    <feGaussianBlur stdDeviation="2.2" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+  </filter>
+  <filter id="grain" x="0" y="0" width="100%" height="100%"><feTurbulence type="fractalNoise" baseFrequency="0.9" numOctaves="3" stitchTiles="stitch"/></filter>
+</defs>
+<g clip-path="url(#card)">
+  <rect width="900" height="352" fill="#050805"/>
+  <g font-family="JetBrains Mono, Consolas, Menlo, monospace"><defs><linearGradient id="hz" x1="0" y1="0" x2="0" y2="1">
+  <stop offset="0" stop-color="#ff6ad5" stop-opacity="0"/><stop offset="0.5" stop-color="#ff6ad5" stop-opacity="0.16"/>
+  <stop offset="1" stop-color="#ff6ad5" stop-opacity="0"/></linearGradient>
+  <linearGradient id="fade" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#fff" stop-opacity="0.1"/>
+  <stop offset="1" stop-color="#fff" stop-opacity="1"/></linearGradient>
+  <mask id="floor"><rect x="0" y="200" width="900" height="152" fill="url(#fade)"/></mask></defs>
+<rect x="0" y="170" width="900" height="60" fill="url(#hz)"/>
+<g mask="url(#floor)" stroke="#39ff8c" stroke-opacity="0.2" stroke-width="1"><line x1="430.4" y1="200" x2="-530" y2="392"/><line x1="431.8" y1="200" x2="-460" y2="392"/><line x1="433.2" y1="200" x2="-390" y2="392"/><line x1="434.6" y1="200" x2="-320" y2="392"/><line x1="436.0" y1="200" x2="-250" y2="392"/><line x1="437.4" y1="200" x2="-180" y2="392"/><line x1="438.8" y1="200" x2="-110" y2="392"/><line x1="440.2" y1="200" x2="-40" y2="392"/><line x1="441.6" y1="200" x2="30" y2="392"/><line x1="443.0" y1="200" x2="100" y2="392"/><line x1="444.4" y1="200" x2="170" y2="392"/><line x1="445.8" y1="200" x2="240" y2="392"/><line x1="447.2" y1="200" x2="310" y2="392"/><line x1="448.6" y1="200" x2="380" y2="392"/><line x1="450.0" y1="200" x2="450" y2="392"/><line x1="451.4" y1="200" x2="520" y2="392"/><line x1="452.8" y1="200" x2="590" y2="392"/><line x1="454.2" y1="200" x2="660" y2="392"/><line x1="455.6" y1="200" x2="730" y2="392"/><line x1="457.0" y1="200" x2="800" y2="392"/><line x1="458.4" y1="200" x2="870" y2="392"/><line x1="459.8" y1="200" x2="940" y2="392"/><line x1="461.2" y1="200" x2="1010" y2="392"/><line x1="462.6" y1="200" x2="1080" y2="392"/><line x1="464.0" y1="200" x2="1150" y2="392"/><line x1="465.4" y1="200" x2="1220" y2="392"/><line x1="466.8" y1="200" x2="1290" y2="392"/><line x1="468.2" y1="200" x2="1360" y2="392"/><line x1="469.6" y1="200" x2="1430" y2="392"/><g class="rolling"><line x1="0" x2="900" y1="200" y2="200"><animate attributeName="y1" values="200;356" dur="3.5s" begin="0.0s" calcMode="spline" keyTimes="0;1" keySplines="0.55 0 1 1" repeatCount="indefinite"/><animate attributeName="y2" values="200;356" dur="3.5s" begin="0.0s" calcMode="spline" keyTimes="0;1" keySplines="0.55 0 1 1" repeatCount="indefinite"/></line><line x1="0" x2="900" y1="200" y2="200"><animate attributeName="y1" values="200;356" dur="3.5s" begin="-0.5s" calcMode="spline" keyTimes="0;1" keySplines="0.55 0 1 1" repeatCount="indefinite"/><animate attributeName="y2" values="200;356" dur="3.5s" begin="-0.5s" calcMode="spline" keyTimes="0;1" keySplines="0.55 0 1 1" repeatCount="indefinite"/></line><line x1="0" x2="900" y1="200" y2="200"><animate attributeName="y1" values="200;356" dur="3.5s" begin="-1.0s" calcMode="spline" keyTimes="0;1" keySplines="0.55 0 1 1" repeatCount="indefinite"/><animate attributeName="y2" values="200;356" dur="3.5s" begin="-1.0s" calcMode="spline" keyTimes="0;1" keySplines="0.55 0 1 1" repeatCount="indefinite"/></line><line x1="0" x2="900" y1="200" y2="200"><animate attributeName="y1" values="200;356" dur="3.5s" begin="-1.5s" calcMode="spline" keyTimes="0;1" keySplines="0.55 0 1 1" repeatCount="indefinite"/><animate attributeName="y2" values="200;356" dur="3.5s" begin="-1.5s" calcMode="spline" keyTimes="0;1" keySplines="0.55 0 1 1" repeatCount="indefinite"/></line><line x1="0" x2="900" y1="200" y2="200"><animate attributeName="y1" values="200;356" dur="3.5s" begin="-2.0s" calcMode="spline" keyTimes="0;1" keySplines="0.55 0 1 1" repeatCount="indefinite"/><animate attributeName="y2" values="200;356" dur="3.5s" begin="-2.0s" calcMode="spline" keyTimes="0;1" keySplines="0.55 0 1 1" repeatCount="indefinite"/></line><line x1="0" x2="900" y1="200" y2="200"><animate attributeName="y1" values="200;356" dur="3.5s" begin="-2.5s" calcMode="spline" keyTimes="0;1" keySplines="0.55 0 1 1" repeatCount="indefinite"/><animate attributeName="y2" values="200;356" dur="3.5s" begin="-2.5s" calcMode="spline" keyTimes="0;1" keySplines="0.55 0 1 1" repeatCount="indefinite"/></line><line x1="0" x2="900" y1="200" y2="200"><animate attributeName="y1" values="200;356" dur="3.5s" begin="-3.0s" calcMode="spline" keyTimes="0;1" keySplines="0.55 0 1 1" repeatCount="indefinite"/><animate attributeName="y2" values="200;356" dur="3.5s" begin="-3.0s" calcMode="spline" keyTimes="0;1" keySplines="0.55 0 1 1" repeatCount="indefinite"/></line></g><g class="still"><line x1="0" x2="900" y1="203.2" y2="203.2"/><line x1="0" x2="900" y1="212.7" y2="212.7"/><line x1="0" x2="900" y1="228.7" y2="228.7"/><line x1="0" x2="900" y1="250.9" y2="250.9"/><line x1="0" x2="900" y1="279.6" y2="279.6"/><line x1="0" x2="900" y1="314.6" y2="314.6"/></g></g>
+<line x1="0" y1="200" x2="900" y2="200" stroke="#ff6ad5" stroke-opacity="0.35"/></g>
+  <rect width="900" height="30" fill="#0b120c"/>
+  <line x1="0" y1="30" x2="900" y2="30" stroke="#15351f"/>
+  <circle cx="20" cy="15" r="5" fill="#ff5f57" fill-opacity="0.75"/><circle cx="38" cy="15" r="5" fill="#febc2e" fill-opacity="0.75"/>
+  <circle cx="56" cy="15" r="5" fill="#28c840" fill-opacity="0.75"/>
+  <text class="bar" x="450" y="19" text-anchor="middle">visitor@github: ~</text>
+  <g class="fg">
+  <text class="banner" filter="url(#phosphor)"><tspan x="40" y="74">███╗   ███╗ █████╗  ██████╗ ██╗██╗  ██╗██╗  ██╗ ██████╗ ███████╗</tspan>
+<tspan x="40" y="89">████╗ ████║██╔══██╗██╔════╝ ██║██║ ██╔╝██║  ██║██╔═████╗██╔════╝</tspan>
+<tspan x="40" y="104">██╔████╔██║███████║██║  ███╗██║█████╔╝ ███████║██║██╔██║█████╗</tspan>
+<tspan x="40" y="119">██║╚██╔╝██║██╔══██║██║   ██║██║██╔═██╗ ██╔══██║████╔╝██║██╔══╝</tspan>
+<tspan x="40" y="134">██║ ╚═╝ ██║██║  ██║╚██████╔╝██║██║  ██╗██║  ██║╚██████╔╝███████╗</tspan>
+<tspan x="40" y="149">╚═╝     ╚═╝╚═╝  ╚═╝ ╚═════╝ ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝ ╚═════╝ ╚══════╝</tspan></text>
+  <text class="tag" x="40" y="180">&gt; security research · home automation · car hacking · breaking things on purpose</text>
+<text x="40" y="220"><tspan class="p">visitor@github</tspan><tspan class="m">:~$</tspan> <tspan class="t">whoami</tspan></text>
+<text x="40" y="241"><tspan class="g">magikh0e</tspan><tspan class="t"> — infosec tinkerer. I automate my house, hack my Jeep,</tspan></text>
+<text x="40" y="262"><tspan class="t">           and write down what worked before I forget.</tspan></text>
+<text x="40" y="283"><tspan class="p">visitor@github</tspan><tspan class="m">:~$</tspan> <tspan class="t">cat .plan</tspan></text>
+<text x="40" y="304"><tspan class="a">"Hackers do it with all sorts of characters."</tspan></text>
+  <text x="40" y="325"><tspan class="p">visitor@github</tspan><tspan class="m">:~$</tspan><tspan class="t"> </tspan><tspan class="p cursor">█<animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.5;0.5;1" dur="1.1s" repeatCount="indefinite"/></tspan></text>
+  </g>
+  <rect width="900" height="352" fill="url(#crt)"/>
+  <rect width="900" height="352" filter="url(#grain)" opacity="0.05"/>
+</g>
+<rect x="0.5" y="0.5" width="899" height="351" rx="12" fill="none" stroke="#15351f"/>
+</svg>

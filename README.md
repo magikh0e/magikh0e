@@ -1,21 +1,4 @@
-```
-███╗   ███╗ █████╗  ██████╗ ██╗██╗  ██╗██╗  ██╗ ██████╗ ███████╗
-████╗ ████║██╔══██╗██╔════╝ ██║██║ ██╔╝██║  ██║██╔═████╗██╔════╝
-██╔████╔██║███████║██║  ███╗██║█████╔╝ ███████║██║██╔██║█████╗
-██║╚██╔╝██║██╔══██║██║   ██║██║██╔═██╗ ██╔══██║████╔╝██║██╔══╝
-██║ ╚═╝ ██║██║  ██║╚██████╔╝██║██║  ██╗██║  ██║╚██████╔╝███████╗
-╚═╝     ╚═╝╚═╝  ╚═╝ ╚═════╝ ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝ ╚═════╝ ╚══════╝
-> security research · home automation · car hacking · breaking things on purpose
-```
-
-```console
-visitor@github:~$ whoami
-magikh0e — infosec tinkerer. I automate my house, hack my Jeep,
-           and write down what worked before I forget.
-
-visitor@github:~$ cat .plan
-"Hackers do it with all sorts of characters."
-```
+<a href="https://magikh0e.pl"><img src="./assets/header.svg" width="100%" alt="MAGIKH0E: security research, home automation, car hacking, breaking things on purpose. whoami: infosec tinkerer. I automate my house, hack my Jeep, and write down what worked before I forget. cat .plan: Hackers do it with all sorts of characters."></a>
 
 [![Website](https://img.shields.io/badge/magikh0e.pl-0a0a0a?style=flat-square&logo=firefox&logoColor=00ff9c)](https://magikh0e.pl)
 [![Mastodon](https://img.shields.io/badge/@magikh0e-0a0a0a?style=flat-square&logo=mastodon&logoColor=6364ff)](https://infosec.exchange/@magikh0e)
