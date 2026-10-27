@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">magikh0e's GitHub Stats, Rank: A-</title>
-        <desc id="descId">Total Stars Earned: 575, Total Commits  (last year) : 1762, Total PRs: 30, Total Issues: 22, Contributed to (last year): 10</desc>
+        <desc id="descId">Total Stars Earned: 576, Total Commits  (last year) : 1763, Total PRs: 30, Total Issues: 22, Contributed to (last year): 10</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 79.89802677290935;
+        stroke-dashoffset: 79.75873716051183;
       }
     }
   
@@ -162,7 +162,7 @@
         x="219.01"
         y="12.5"
         data-testid="stars"
-      >575</text>
+      >576</text>
     </g>
   </g><g transform="translate(0, 25)">
     <g class="stagger" style="animation-delay: 600ms" transform="translate(25, 0)">
