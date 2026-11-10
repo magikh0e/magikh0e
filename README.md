@@ -16,7 +16,7 @@ visitor@github:~$ ls ~/projects/
   &nbsp;
   <a href="https://github.com/magikh0e/FlipperZero_Stuff"><img src="https://raw.githubusercontent.com/magikh0e/FlipperZero_Stuff/main/assets/logo-512.png" height="185" alt="Flipper Zero Stuff"></a>
   &nbsp;
-  <a href="https://github.com/magikh0e/open-relay"><img src="https://raw.githubusercontent.com/magikh0e/open-relay/main/assets/logo-512.png" height="185" alt="Open Relay"></a>
+  <a href="https://github.com/magikh0e/Printery"><img src="https://raw.githubusercontent.com/magikh0e/Printery/main/assets/logo-512.png" height="185" alt="Printery"></a>
   &nbsp;
   <a href="https://github.com/magikh0e/fwscope"><img src="https://raw.githubusercontent.com/magikh0e/fwscope/main/assets/fwscope-badge.webp" height="185" alt="fwscope"></a>
 </p>
