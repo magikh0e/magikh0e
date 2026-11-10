@@ -12,13 +12,15 @@ visitor@github:~$ ls ~/projects/
 ```
 
 <p align="center">
-  <a href="https://github.com/magikh0e/pueo"><img src="https://raw.githubusercontent.com/magikh0e/pueo/pueo/assets/logo-512.png" height="185" alt="Pueo"></a>
+  <a href="https://github.com/magikh0e/pueo"><img src="https://raw.githubusercontent.com/magikh0e/pueo/pueo/assets/logo-512.png" height="160" alt="Pueo"></a>
   &nbsp;
-  <a href="https://github.com/magikh0e/surveillance-signatures"><img src="https://raw.githubusercontent.com/magikh0e/surveillance-signatures/main/assets/logo-512.png" height="185" alt="Surveillance Signatures"></a>
+  <a href="https://github.com/magikh0e/surveillance-signatures"><img src="https://raw.githubusercontent.com/magikh0e/surveillance-signatures/main/assets/logo-512.png" height="160" alt="Surveillance Signatures"></a>
   &nbsp;
-  <a href="https://github.com/magikh0e/FlipperZero_Stuff"><img src="https://raw.githubusercontent.com/magikh0e/FlipperZero_Stuff/main/assets/logo-512.png" height="185" alt="Flipper Zero Stuff"></a>
+  <a href="https://github.com/magikh0e/FlipperZero_Stuff"><img src="https://raw.githubusercontent.com/magikh0e/FlipperZero_Stuff/main/assets/logo-512.png" height="160" alt="Flipper Zero Stuff"></a>
   &nbsp;
-  <a href="https://github.com/magikh0e/open-relay"><img src="https://raw.githubusercontent.com/magikh0e/open-relay/main/assets/logo-512.png" height="185" alt="Open Relay"></a>
+  <a href="https://github.com/magikh0e/open-relay"><img src="https://raw.githubusercontent.com/magikh0e/open-relay/main/assets/logo-512.png" height="160" alt="Open Relay"></a>
+  &nbsp;
+  <a href="https://github.com/magikh0e/fwscope"><img src="https://raw.githubusercontent.com/magikh0e/fwscope/main/assets/fwscope-badge.webp" height="160" alt="fwscope"></a>
 </p>
 
 ### 🌐 the-site/ — [magikh0e.pl](https://magikh0e.pl)
