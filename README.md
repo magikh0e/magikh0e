@@ -33,7 +33,7 @@ The hub: a **~27,000-entry searchable exploit archive**, hardware & car-hacking 
 - **[CVEs](https://github.com/magikh0e/CVEs)** — proof-of-concept exploit code for select CVEs
 - **[FlipperZero_Stuff](https://github.com/magikh0e/FlipperZero_Stuff)** — custom firmware, Sub-GHz & IR captures, NFC/RFID, BadUSB payloads, external hardware, and curated tools/links for the Flipper Zero
 - **[nmea_decode](https://github.com/magikh0e/nmea_decode)** — single-file NMEA 0183 decoder for GPS and AIS (file, serial, TCP or UDP; stdlib only, JSON / fix-summary output)
-- **[puffco-lorax-decode](https://github.com/magikh0e/puffco-lorax-decode)** — decoder for the Puffco LORAX BLE protocol: an Android btsnoop capture becomes the auth handshake, a typed device path map, and the control commands. Stdlib Python, the start of working the protocol out toward an independent integration; [write-up](https://magikh0e.pl/pubHardwareHacking/reversing-bluetooth-le-android.html)
+- **[puffco-lorax-decode](https://github.com/magikh0e/puffco-lorax-decode)** — decoder for the Puffco LORAX BLE protocol: an Android btsnoop capture becomes the auth handshake, a typed device path map, and the control commands. Stdlib Python, the start of working the protocol out toward an independent integration; full protocol reference in the [wiki](https://github.com/magikh0e/puffco-lorax-decode/wiki) · [write-up](https://magikh0e.pl/pubHardwareHacking/reversing-bluetooth-le-android.html)
 
 ### 🚗 car-hacking/
 - **[canbus-scripts](https://github.com/magikh0e/canbus-scripts)** — bash + can-utils diagnostics over SocketCAN: OBD-II PIDs, DTC clearing, and a live engine dashboard for Linux / Raspberry Pi rigs
