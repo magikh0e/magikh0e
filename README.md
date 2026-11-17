@@ -33,9 +33,9 @@ The hub: a **~27,000-entry searchable exploit archive**, hardware & car-hacking 
 - **[CVEs](https://github.com/magikh0e/CVEs)** — proof-of-concept exploit code for select CVEs
 - **[FlipperZero_Stuff](https://github.com/magikh0e/FlipperZero_Stuff)** — custom firmware, Sub-GHz & IR captures, NFC/RFID, BadUSB payloads, external hardware, and curated tools/links for the Flipper Zero
 - **[nmea_decode](https://github.com/magikh0e/nmea_decode)** — single-file NMEA 0183 decoder for GPS and AIS (file, serial, TCP or UDP; stdlib only, JSON / fix-summary output)
+
+### 🔬 reverse-engineering/
 - **[puffco-lorax-decode](https://github.com/magikh0e/puffco-lorax-decode)** — decoder for the Puffco LORAX BLE protocol: an Android btsnoop capture becomes the auth handshake, a typed device path map, and the control commands. Stdlib Python, the start of working the protocol out toward an independent integration; full protocol reference in the [wiki](https://github.com/magikh0e/puffco-lorax-decode/wiki) · [write-up](https://magikh0e.pl/pubHardwareHacking/reversing-bluetooth-le-android.html)
-- **[puffco-peak-control](https://github.com/magikh0e/puffco-peak-control)** — the live browser app that protocol built: a Web Bluetooth controller for your own Peak Pro (start/stop heat cycles, +temp/+time, mood light, profiles, live temperature). No build step; [try it](https://puffco.magikh0e.com/) (`?demo` needs no device) · [dab temperature guide](https://puffco.magikh0e.com/temps.html)
-- **[ha-puffco-peak](https://github.com/magikh0e/ha-puffco-peak)** — the same control, now in Home Assistant: a HACS custom integration that bonds to your own Peak Pro over Bluetooth and exposes its live state and full control surface as entities — all local, no cloud. The Home Assistant port of the puffco-peak-control / puffco-lorax-decode protocol work
 
 ### 🚗 car-hacking/
 - **[canbus-scripts](https://github.com/magikh0e/canbus-scripts)** — bash + can-utils diagnostics over SocketCAN: OBD-II PIDs, DTC clearing, and a live engine dashboard for Linux / Raspberry Pi rigs
@@ -49,6 +49,7 @@ The hub: a **~27,000-entry searchable exploit archive**, hardware & car-hacking 
 ### 🖥️ self-hosted/
 - **[open-relay](https://github.com/magikh0e/open-relay)** — self-hosted, end-to-end-encrypted chat service (FastAPI + React, native [Tauri](https://tauri.app) desktop app). Channels, threads, DMs with browser-side E2EE and safety numbers — no company in the middle
 - **[volcano-hybrid-control](https://github.com/magikh0e/volcano-hybrid-control)** — browser Web Bluetooth control for the Storz & Bickel Volcano Hybrid (temperature, heat, fan, presets, bag fill), no app or backend; BLE protocol from [home-assistant-volcano-hybrid](https://github.com/SavageNL/home-assistant-volcano-hybrid)
+- **[puffco-peak-control](https://github.com/magikh0e/puffco-peak-control)** — browser Web Bluetooth control for your own Puffco Peak Pro (start/stop heat cycles, +temp/+time, mood light, profiles, live temperature), no app or backend; built on the reverse-engineered [puffco-lorax-decode](https://github.com/magikh0e/puffco-lorax-decode) protocol. No build step; [try it](https://puffco.magikh0e.com/) (`?demo` needs no device) · [dab temperature guide](https://puffco.magikh0e.com/temps.html)
 
 ### 🖨️ 3d-printing/
 - **[Printery](https://github.com/magikh0e/Printery)** (formerly PrintVault) — local-first manager for 3D print files: indexes your folders in place, reads slicer settings from gcode, looks inside unextracted archives, and finds duplicates. Browser or desktop, nothing uploaded, [live](https://printery.magikh0e.com/app/)
@@ -59,6 +60,7 @@ The hub: a **~27,000-entry searchable exploit archive**, hardware & car-hacking 
 - **[ha-home-grow](https://github.com/magikh0e/ha-home-grow)** — native HACS integration for tracking plants (growth stage, health, age)
 - **[ha-medication-reminder](https://github.com/magikh0e/ha-medication-reminder)** · **[-yaml](https://github.com/magikh0e/ha-medication-reminder-yaml)** — UI-managed dose tracking for people and pets: multi-dose schedules, nag + escalation reminders, refill and cost tracking, and fractional doses; custom-integration and YAML-package flavors, [guide](https://magikh0e.pl/pubHomeAutomation/medication-reminder.html)
 - **[ha-creality-dashboards](https://github.com/magikh0e/ha-creality-dashboards)** — ready-to-use Home Assistant dashboards for Creality printers (K2 Plus and more), built with stock Lovelace cards only so no custom frontend cards are needed; pairs with the ha_creality_ws integration
+- **[ha-puffco-peak](https://github.com/magikh0e/ha-puffco-peak)** — HACS custom integration that bonds to your own Puffco Peak Pro over Bluetooth and exposes its live state and full control surface as Home Assistant entities — all local, no cloud. The Home Assistant port of the [puffco-peak-control](https://github.com/magikh0e/puffco-peak-control) / [puffco-lorax-decode](https://github.com/magikh0e/puffco-lorax-decode) protocol work
 
 ### 🌱 gardening/
 - **[PlantManager](https://github.com/magikh0e/PlantManager)** — a complete offline cultivation manager in a single HTML file: mother and clone tracking, feeding and environment logs, KNF and VPD/DLI calculators, harvest, trichome, and cost tracking, lineage and genetic trees, and 30+ SVG analytics charts. Local-first, no accounts, no tracking.
