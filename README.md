@@ -16,7 +16,7 @@ visitor@github:~$ ls ~/projects/
   &nbsp;
   <a href="https://github.com/magikh0e/FlipperZero_Stuff"><img src="https://raw.githubusercontent.com/magikh0e/FlipperZero_Stuff/main/assets/logo-512.png" height="185" alt="Flipper Zero Stuff"></a>
   &nbsp;
-  <a href="https://github.com/magikh0e/cvescope"><img src="https://raw.githubusercontent.com/magikh0e/cvescope/main/assets/cvescope-badge.webp" height="185" alt="CVE Scope"></a>
+  <a href="https://github.com/magikh0e/cvescope"><img src="https://raw.githubusercontent.com/magikh0e/cvescope/main/assets/cvescope-badge.webp?v=2" height="185" alt="CVE Scope"></a>
   &nbsp;
   <a href="https://github.com/magikh0e/fwscope"><img src="https://raw.githubusercontent.com/magikh0e/fwscope/main/assets/fwscope-badge.webp" height="185" alt="fwscope"></a>
 </p>
